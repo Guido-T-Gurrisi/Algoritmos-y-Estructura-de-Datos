@@ -1,5 +1,1 @@
-|-- .gitignore
-|-- Makefile
-|-- readme.md // Front page de la resolución
-`-- Archivos de resolución
-
+sudo apt-get install git
